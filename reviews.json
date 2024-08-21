@@ -1,0 +1,64 @@
+{
+    "reviews": [
+        {
+            "Professor": "Dr. John Smith",
+            "Subject": "Introduction to Computer Science",
+            "Rating": 4,
+            "Review": "Dr. Smith explains concepts clearly and provides excellent examples. However, the workload is heavy."
+        },
+        {
+            "Professor": "Dr. Jane Doe",
+            "Subject": "Data Structures",
+            "Rating": 5,
+            "Review": "Dr. Doe is an amazing teacher who really cares about her students. Her lectures are engaging and she is always available for help."
+        },
+        {
+            "Professor": "Dr. Emily Johnson",
+            "Subject": "Algorithms",
+            "Rating": 3,
+            "Review": "Dr. Johnson is knowledgeable but her lectures can be hard to follow. The exams are tough but fair."
+        },
+        {
+            "Professor": "Dr. Michael Brown",
+            "Subject": "Operating Systems",
+            "Rating": 2,
+            "Review": "Dr. Brown's lectures are boring and the material is not well-organized. The grading is harsh."
+        },
+        {
+            "Professor": "Dr. Olivia Davis",
+            "Subject": "Database Systems",
+            "Rating": 4,
+            "Review": "Dr. Davis provides clear explanations and practical examples. The course is well-structured, but the projects are challenging."
+        },
+        {
+            "Professor": "Dr. William Wilson",
+            "Subject": "Software Engineering",
+            "Rating": 5,
+            "Review": "Dr. Wilson is passionate about teaching and makes the subject interesting. His real-world experience adds value to the course."
+        },
+        {
+            "Professor": "Dr. Sophia Martinez",
+            "Subject": "Artificial Intelligence",
+            "Rating": 4,
+            "Review": "Dr. Martinez is very knowledgeable and approachable. The assignments are tough but rewarding."
+        },
+        {
+            "Professor": "Dr. James Anderson",
+            "Subject": "Machine Learning",
+            "Rating": 3,
+            "Review": "Dr. Anderson is an expert in the field, but his lectures can be dry. The course content is dense and requires a lot of self-study."
+        },
+        {
+            "Professor": "Dr. Elizabeth Taylor",
+            "Subject": "Computer Networks",
+            "Rating": 5,
+            "Review": "Dr. Taylor is an excellent professor who makes complex topics easy to understand. Her passion for the subject is contagious."
+        },
+        {
+            "Professor": "Dr. David Thomas",
+            "Subject": "Cybersecurity",
+            "Rating": 4,
+            "Review": "Dr. Thomas is very thorough in his teaching. The course is challenging, but you learn a lot."
+        }
+    ]
+}
